@@ -6,3 +6,4 @@ def sort(nums):
                 nums[j] = nums[j+1]
                 nums[j+1] = temp
 #now create a array and put in place of nums                
+#please add a readme
