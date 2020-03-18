@@ -14,3 +14,4 @@ def isprime(t):
 for num in range(2,N+1):
     if isprime(num):
       print(num, end =' ')
+#give a suitable readme/ description
